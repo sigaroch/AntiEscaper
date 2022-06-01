@@ -1,0 +1,4 @@
+#Tue May 17 19:55:32 EAT 2022
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\AntiEscaper\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
